@@ -20,13 +20,27 @@
 
 <br/>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-![Full stack software engineer from sri lanka](https://github.com/ravindudanthanarayana/ravindudanthanarayana/blob/main/r.jpg)
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-I’m a passionate Software Engineering student who loves crafting sleek, user focused websites and apps. I enjoy turning ideas into real solutions, solving problems and collaborating with creative teams to build things that make an impact.
+<br/>
+<hr/>
 
-Skills: Reactjs, Nodejs, Expressjs, MongoDB, Figma, MySQL, Tailwind, Bootstrap, Redux, Nextjs, Git, TypeScript, Java, React Native, Springboot, AWS, Postgresql
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ravindudanthanarayana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ravindudanthanarayana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ravindudanthanarayana.me/)  
