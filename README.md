@@ -1,5 +1,14 @@
-### Hi there 👋, It's Ravindu
-#### Full stack software engineer from sri lanka
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Sri Lanka 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
 ![Full stack software engineer from sri lanka](https://github.com/ravindudanthanarayana/ravindudanthanarayana/blob/main/r.jpg)
 
 I’m a passionate Software Engineering student who loves crafting sleek, user focused websites and apps. I enjoy turning ideas into real solutions, solving problems and collaborating with creative teams to build things that make an impact.
