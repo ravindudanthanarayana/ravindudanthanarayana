@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There+👋;I'm+Ravindu;DevOps+%7C+Cloud+%7C+AI%2FML+Engineer;Building+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There+👋🏼;I'm+Ravindu;DevOps+%7C+Cloud+%7C+AI%2FML+Engineer;Building+Scalable+Systems" />
 </h1>
 
 <h3 align="center">
@@ -12,22 +12,22 @@ DevOps • Cloud Infrastructure • AI/ML • Automation
 
 ---
 
-## 👨‍💻 About Me
+## ➥ About Me
 
-🚀 IT Undergraduate passionate about **DevOps, Cloud Engineering, and AI/ML**
+IT Undergraduate passionate about **DevOps, Cloud Engineering, and AI/ML**
 
 I enjoy building **scalable systems, automated infrastructure, and intelligent applications** that solve real-world problems.
 
-- ☁️ Cloud & Infrastructure Automation  
-- ⚙️ CI/CD and DevOps pipelines  
-- 🤖 AI / Machine Learning systems  
-- 🐧 Linux, networking and system reliability  
+-  Linux, networking and system reliability 
+-  Cloud & Infrastructure Automation  
+-  CI/CD and DevOps pipelines  
+-  AI / Machine Learning systems  
 
 Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 
 ---
 
-## 🌐 Connect With Me
+## ➥ Connect With Me
 
 <p align="center">
   <a href="mailto:ravindu.danth@gmail.com">
@@ -45,7 +45,7 @@ Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 
 ---
 
-## ⚡ Tech Stack
+## ➥ Tech Stack
 
 <p align="center">
 
@@ -55,7 +55,7 @@ Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 
 ---
 
-## 🚀 Areas of Interest
+## ➥ Areas of Interest
 
 - DevOps Engineering  
 - Cloud Architecture  
@@ -66,7 +66,7 @@ Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 
 ---
 
-## 📈 GitHub Stats
+## ➥ GitHub Stats
 
 <p align="center">
 
@@ -78,19 +78,9 @@ Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 
 ---
 
-## 🧠 Currently Learning
+## ➥ Currently Learning
 
 - Kubernetes Deep Dive  
 - MLOps & ML Lifecycle  
 - Terraform Infrastructure Automation  
 - Distributed Systems  
-
----
-
-## ⚡ Fun Fact
-
-I like building systems that **scale automatically and fail gracefully.**
-
-Or as I like to say:
-
-> Making machines learn things and servers forget how to crash.
