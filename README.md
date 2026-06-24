@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ravindudanthanarayana">Main GitHub</a> •
-  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub</a>
+  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub Account</a>
 </p>
 
 <h1 align="center">
