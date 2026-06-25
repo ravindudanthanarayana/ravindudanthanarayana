@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub Account 🦦</a>
-</p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There+👋🏼;I'm+Ravindu;DevOps+%7C+Cloud+%7C+AI%2FML;Building+Scalable+Systems" />
 </h1>
@@ -56,35 +52,6 @@ Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,python,java,docker,kubernetes,terraform,ansible,jenkins,aws,azure,mysql"/>
 
 </p>
-
----
-
-## ➥ Areas of Interest
-
-- DevOps Engineering  
-- Cloud Architecture  
-- Infrastructure as Code  
-- AI / Machine Learning  
-- MLOps & LLMOps  
-- Platform Engineering  
-
----
-
-## ➥ GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravindudanthanarayana&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindudanthanarayana&theme=tokyonight"/>
-
+  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub Account 🦦</a>
 </p>
-
----
-
-## ➥ Currently Learning
-
-- Kubernetes Deep Dive  
-- MLOps & ML Lifecycle  
-- Terraform Infrastructure Automation  
-- Distributed Systems  
