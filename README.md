@@ -3,12 +3,8 @@
 </h1>
 
 <h3 align="center">
-Turning ideas into reliable systems ⚙️
+DevSecOps + AI/ML 
 </h3>
-
-<p align="center">
-DevOps • Cloud Infrastructure • AI/ML • Automation
-</p>
 
 ---
 
