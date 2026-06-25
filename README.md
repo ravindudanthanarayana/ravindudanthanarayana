@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub Account</a>
+  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub Account 🦦</a>
 </p>
 
 <h1 align="center">
