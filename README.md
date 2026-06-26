@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There+👋🏼;I'm+Ravindu;DevOps+%7C+Cloud+%7C+AI%2FML;Building+Scalable+Systems" />
 </h1>
 
-<h3 align="center">
-DevSecOps + AI/ML 
-</h3>
-
 ---
 
 ## ➥ About Me
