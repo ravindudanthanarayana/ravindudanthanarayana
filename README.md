@@ -41,7 +41,3 @@ Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,python,java,docker,kubernetes,terraform,ansible,jenkins,aws,azure,mysql"/>
 
-</p>
-<p align="center">
-  <a href="https://github.com/ravindu-danthanarayana">Secondary GitHub Account 🦦</a>
-</p>
