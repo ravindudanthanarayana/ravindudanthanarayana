@@ -1,43 +1,109 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There+👋🏼;I'm+Ravindu;DevOps+%7C+Cloud+%7C+AI%2FML;Building+Scalable+Systems" />
-</h1>
+<div align="center">
 
-## ➥ About Me
+# Ravindu.
 
-IT Undergraduate passionate about **DevOps, Cloud Engineering, and AI/ML**
+### I like making things, breaking things, and finding out why they broke.
 
-I enjoy building **scalable systems, automated infrastructure, and intelligent applications** that solve real-world problems.
+<br>
 
--  Linux, networking and system reliability 
--  Cloud & Infrastructure Automation  
--  CI/CD and DevOps pipelines  
--  AI / Machine Learning systems  
+[Website](https://ravindu.cloud) · [LinkedIn](https://www.linkedin.com/in/ravindudanthanarayana) · [Email](mailto:ravindu.danth@gmail.com)
 
-Currently learning **MLOps, Kubernetes, and large scale cloud architectures.**
+</div>
+
+<br>
+<br>
 
 ---
 
-## ➥ Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ravindu.danth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
+## Welcome to my corner of GitHub.
 
-  <a href="https://www.linkedin.com/in/ravindudanthanarayana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://ravindu.cloud/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+Most people probably have a more organised way of learning things.
+
+I don't.
+
+I usually see something interesting, think *"hmm, can I make that?"*, start building it, break something completely unrelated, spend three hours figuring out why, and somehow learn five new things along the way.
+
+It's not always efficient.
+
+But it is fun.
+
+<br>
+
+<div align="center">
+
+## I like turning curiosity into little experiments.
+
+</div>
+
+Some become projects.
+
+Some become half-finished repositories.
+
+Some are created at 2 AM and never seen again.
+
+And a few actually survive.
+
+That's what you'll find around here.
+
+Things I'm building, things I'm learning, random experiments, open-source contributions, and probably a few questionable commits.
+
+<br>
+
+<div align="center">
+
+## Currently somewhere between
+
+### ☁️ Cloud &nbsp; · &nbsp; ⚙️ DevOps &nbsp; · &nbsp; ☸️ Kubernetes &nbsp; · &nbsp; 🤖 AI
+
+</div>
+
+I'm especially interested in what happens when all these pieces have to work together.
+
+Not just making something work on my laptop.
+
+Making it work when the laptop is no longer the whole world.
+
+<br>
+
+<div align="center">
+
+## Outside the terminal
+
+I enjoy good design, interesting products, games, and discovering technologies that make me stop and think,
+
+### "Wait... you can actually do that?"
+
+</div>
+
+<br>
 
 ---
 
-## ➥ Tech Stack
+<div align="center">
 
-<p align="center">
+# Anyway, you're already here.
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,python,java,docker,kubernetes,terraform,ansible,jenkins,aws,azure,mysql"/>
+Have a look around.
 
+Some things work.
+
+Some things don't.
+
+I'm probably learning something from both.
+
+<br>
+
+<a href="https://ravindu.cloud">
+<img src="https://img.shields.io/badge/Explore-000000?style=for-the-badge" />
+</a>
+
+<br>
+<br>
+
+<sub>Built with curiosity, caffeine, and an unreasonable number of browser tabs.</sub>
+
+</div>
